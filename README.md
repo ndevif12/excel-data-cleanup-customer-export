@@ -79,5 +79,5 @@ Excel, Power Query (M), Excel formulas.
 
 I clean and automate Excel data, build reconciliation tools, and set up reports that refresh in one click.
 
-- Fiverr: [devi_n24]
+- Fiverr: [http://www.fiverr.com/s/Zoo39mm]
 - Contact: [ndevif12@gmail.com]
